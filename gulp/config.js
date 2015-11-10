@@ -59,12 +59,12 @@ module.exports = {
   'swagger': {
     'src' : [
       {
-        'url': 'https://raw.githubusercontent.com/APIs-guru/api-models/master/clickmeter.com/v2/',
+        'url': 'https://apis-guru.github.io/api-models/clickmeter.com/v2/',
         'filename': 'swagger.json',
         'moduleName': 'ClickMeter'
       },
       {
-        'url': 'https://raw.githubusercontent.com/APIs-guru/api-models/master/googleapis.com/gmail/v1/',
+        'url': 'https://apis-guru.github.io/api-models/googleapis.com/gmail/v1/',
         'filename': 'swagger.json',
         'moduleName': 'Gmail'
       },
